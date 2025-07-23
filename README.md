@@ -55,9 +55,6 @@ Comprehensive workforce analytics dashboard:
 
 **[🔗 View Live Dashboard](https://public.tableau.com/views/HRDashboard_17527668542800/HRResourcesOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
 
 ## 📫 Let's Connect
 
