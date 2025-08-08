@@ -33,7 +33,7 @@ Comprehensive investment analysis of 505 S&P 500 companies across 10 sectors for
 * **Interactive dashboard** - Built comprehensive Tableau visualization for sector trend exploration
 
 *Key Insights: Identified Industrials/Financials as undervalued opportunities, flagged Technology sector overvaluation risks*
-**🔗 [View Full Report]([link-to-your-analysis](https://github.com/AndreaRichardt/sp500-sector-analysis.git))**
+[View Full Report]([link-to-your-analysis](https://github.com/AndreaRichardt/sp500-sector-analysis.git))
 
 ### 💰 Finance Dashboard - Power BI
 *Power BI, DAX*
@@ -42,7 +42,7 @@ Interactive personal finance dashboard with advanced features:
 * Month-over-Month performance tracking
 * Advanced DAX programming with conditional logic
 * Clean, professional UI/UX design
-**🔗 [View Project]([link-to-your-finance-dashboard-repo](https://github.com/AndreaRichardt/Finance-Power-BI-Dasboard.git))**
+[View Project]([link-to-your-finance-dashboard-repo](https://github.com/AndreaRichardt/Finance-Power-BI-Dasboard.git))
 
 ### 📊 End-to-End Data Analytics Pipeline
 *SQL, Tableau*
@@ -52,7 +52,7 @@ Complete data solution following medallion architecture (Bronze → Silver → G
 * Developed advanced analytics for predictive insights
 * Created executive-ready reports and recommendations
 *Technologies: SQL, Data Warehousing, Statistical Analysis*
-**🔗 [View Full Report]([link-to-your-analysis](https://github.com/AndreaRichardt/Warehouse-data-analytics.git))**
+[View Full Report]([link-to-your-analysis](https://github.com/AndreaRichardt/Warehouse-data-analytics.git))
 
 ### 👥 HR Analytics Dashboard
 *Tableau, SQL*
@@ -61,7 +61,7 @@ Comprehensive workforce analytics dashboard:
 * Gender diversity metrics
 * Employee performance indicators
 * Strategic HR recommendations
-**🔗 [View Live Dashboard*]([link-to-your-finance-dashboard-repo](https://public.tableau.com/views/HRDashboard_17527668542800/HRResourcesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+[View Live Dashboard*]([link-to-your-finance-dashboard-repo](https://public.tableau.com/views/HRDashboard_17527668542800/HRResourcesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ## 📫 Let's Connect
 
