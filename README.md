@@ -33,7 +33,8 @@ Comprehensive investment analysis of 505 S&P 500 companies across 10 sectors for
 * **Interactive dashboard** - Built comprehensive Tableau visualization for sector trend exploration
 
 *Key Insights: Identified Industrials/Financials as undervalued opportunities, flagged Technology sector overvaluation risks*
-![View Full Report](https://github.com/AndreaRichardt/sp500-sector-analysis.git)
+
+**🔗[View Full Report](https://github.com/AndreaRichardt/sp500-sector-analysis.git)**
 
 ### 💰 Finance Dashboard - Power BI
 *Power BI, DAX*
