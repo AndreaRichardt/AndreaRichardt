@@ -8,53 +8,60 @@ Entry-level **Data Analyst** passionate about transforming raw data into actiona
 ## 🛠️ Technical Skills
 
 **Data Analysis & Visualization**
-- **SQL** - Complex queries, data modeling, performance optimization
-- **Excel** - Advanced formulas, pivot tables, data analysis
-- **Tableau** - Interactive dashboards, data storytelling, visual analytics
+* **SQL** - Complex queries, data modeling, performance optimization
+* **Excel** - Advanced formulas, pivot tables, data analysis
+* **Tableau** - Interactive dashboards, data storytelling, visual analytics
+* **Power BI** - Advanced DAX programming, dynamic visualizations, time intelligence
 
 **Data Architecture**
-- Data Warehousing (Medallion Architecture)
-- ETL Processes
-- Data Modeling
+* Data Warehousing (Medallion Architecture)
+* ETL Processes
+* Data Modeling
 
 **Currently Learning**
-- 🐍 Python (Pandas) - Next on my learning journey
+* 🐍 Python (Pandas) - Next on my learning journey
 
 ## 🚀 Featured Projects
 
+### 📈 S&P 500 Sector Performance Analysis
+*SQL, Tableau, Financial Analysis*
+Comprehensive investment analysis of 505 S&P 500 companies across 10 sectors for portfolio optimization:
+* **Multi-table data modeling** - Created 4 specialized analytical tables from raw financial data
+* **Advanced statistical analysis** - Calculated volatility patterns, income efficiency, and risk metrics
+* **Executive reporting** - Delivered actionable investment recommendations for $24.87T AUM portfolio
+* **Outlier identification** - Flagged extreme valuations and high-risk securities for enhanced monitoring
+* **Interactive dashboard** - Built comprehensive Tableau visualization for sector trend exploration
+
+*Key Insights: Identified Industrials/Financials as undervalued opportunities, flagged Technology sector overvaluation risks*
+**🔗 [View Full Report]([link-to-your-analysis](https://github.com/AndreaRichardt/sp500-sector-analysis.git))**
+
+### 💰 Finance Dashboard - Power BI
+*Power BI, DAX*
+Interactive personal finance dashboard with advanced features:
+* Dynamic measure selection and time intelligence
+* Month-over-Month performance tracking
+* Advanced DAX programming with conditional logic
+* Clean, professional UI/UX design
+**🔗 [View Project]([link-to-your-finance-dashboard-repo](https://github.com/AndreaRichardt/Finance-Power-BI-Dasboard.git))**
+
 ### 📊 End-to-End Data Analytics Pipeline
 *SQL, Tableau*
-
 Complete data solution following medallion architecture (Bronze → Silver → Gold layers):
-- Built scalable data warehouse with proper data modeling
-- Performed comprehensive EDA uncovering key business patterns
-- Developed advanced analytics for predictive insights
-- Created executive-ready reports and recommendations
-
+* Built scalable data warehouse with proper data modeling
+* Performed comprehensive EDA uncovering key business patterns
+* Developed advanced analytics for predictive insights
+* Created executive-ready reports and recommendations
 *Technologies: SQL, Data Warehousing, Statistical Analysis*
-
-### 📈 Sales & Customer Analytics Dashboard
-*Tableau, SQL*
-
-Interactive Tableau dashboard analyzing sales performance and customer behavior:
-- Revenue trends and forecasting
-- Customer segmentation analysis
-- Product performance metrics
-- KPI monitoring with actionable insights
-
-**[🔗 View Live Dashboard](https://public.tableau.com/views/SalesCustomerDashboard_17524469839340/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**🔗 [View Full Report]([link-to-your-analysis](https://github.com/AndreaRichardt/Warehouse-data-analytics.git))**
 
 ### 👥 HR Analytics Dashboard
 *Tableau, SQL*
-
 Comprehensive workforce analytics dashboard:
-- Salary analysis and compensation insights
-- Gender diversity metrics
-- Employee performance indicators
-- Strategic HR recommendations
-
-**[🔗 View Live Dashboard](https://public.tableau.com/views/HRDashboard_17527668542800/HRResourcesOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-
+* Salary analysis and compensation insights
+* Gender diversity metrics
+* Employee performance indicators
+* Strategic HR recommendations
+**🔗 [View Live Dashboard*]([link-to-your-finance-dashboard-repo](https://public.tableau.com/views/HRDashboard_17527668542800/HRResourcesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
 
 ## 📫 Let's Connect
 
