@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Andrea Richardt
 
 ## 🎯 About Me
-Entry-level **Data Analyst** passionate about transforming raw data into actionable business insights. With a background in International Business and strong analytical mindset, I specialize in building end-to-end data solutions from warehouse design to interactive dashboards.
+**Data Analyst** passionate about transforming raw data into actionable business insights. With a background in International Business and strong analytical mindset, I specialize in building end-to-end data solutions from warehouse design to interactive dashboards.
 
 🌎 Based in Mexico | 🇺🇸 CAE C1 English Certified | 🎓 International Business Graduate
 
@@ -9,6 +9,7 @@ Entry-level **Data Analyst** passionate about transforming raw data into actiona
 
 **Data Analysis & Visualization**
 * **SQL** - Complex queries, data modeling, performance optimization
+* **Python** - Pandas for data manipulation, NumPy for numerical computing, Matplotlib/Seaborn for data visualization, statistical analysis, data cleaning and transformation
 * **Excel** - Advanced formulas, pivot tables, data analysis
 * **Tableau** - Interactive dashboards, data storytelling, visual analytics
 * **Power BI** - Advanced DAX programming, dynamic visualizations, time intelligence
@@ -17,9 +18,6 @@ Entry-level **Data Analyst** passionate about transforming raw data into actiona
 * Data Warehousing (Medallion Architecture)
 * ETL Processes
 * Data Modeling
-
-**Currently Learning**
-* 🐍 Python (Pandas) - Next on my learning journey
 
 ## 🚀 Featured Projects
 
